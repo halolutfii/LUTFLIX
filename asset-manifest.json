@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LUTFLIX/static/css/main.f024bf18.css",
+    "main.js": "/LUTFLIX/static/js/main.78abb1c6.js",
+    "static/js/787.7c42db31.chunk.js": "/LUTFLIX/static/js/787.7c42db31.chunk.js",
+    "index.html": "/LUTFLIX/index.html",
+    "main.f024bf18.css.map": "/LUTFLIX/static/css/main.f024bf18.css.map",
+    "main.78abb1c6.js.map": "/LUTFLIX/static/js/main.78abb1c6.js.map",
+    "787.7c42db31.chunk.js.map": "/LUTFLIX/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f024bf18.css",
+    "static/js/main.78abb1c6.js"
+  ]
+}
